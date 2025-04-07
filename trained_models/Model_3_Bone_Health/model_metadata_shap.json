@@ -1,0 +1,38 @@
+{
+    "features": [
+        "age_weight_ratio",
+        "interaction",
+        "trialyrs",
+        "p3_weigh",
+        "ra_age"
+    ],
+    "optimal_threshold": 0.3337000012397766,
+    "balanced_accuracy": 65.78,
+    "classification_report": {
+        "0.0": {
+            "precision": 0.7742382271468145,
+            "recall": 0.671875,
+            "f1-score": 0.7194337194337195,
+            "support": 832.0
+        },
+        "1.0": {
+            "precision": 0.5054347826086957,
+            "recall": 0.6312217194570136,
+            "f1-score": 0.5613682092555332,
+            "support": 442.0
+        },
+        "accuracy": 0.6577708006279435,
+        "macro avg": {
+            "precision": 0.639836504877755,
+            "recall": 0.6515483597285068,
+            "f1-score": 0.6404009643446263,
+            "support": 1274.0
+        },
+        "weighted avg": {
+            "precision": 0.6809798892458345,
+            "recall": 0.6577708006279435,
+            "f1-score": 0.6645946648821038,
+            "support": 1274.0
+        }
+    }
+}
