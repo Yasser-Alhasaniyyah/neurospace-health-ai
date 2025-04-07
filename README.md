@@ -18,4 +18,4 @@ The system automatically generates a personalized, readable health scan report a
 
 Made for Hackathon: **ابتكارثون | ابتكار في الفضاء**
 
-🚀 Designed by: Yasser Alhasaniyyah & Team
+🚀 Designed by: NeuroSpace Team
