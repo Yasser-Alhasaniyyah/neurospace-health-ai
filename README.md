@@ -19,7 +19,6 @@ The system automatically generates a personalized, readable health scan report a
 Made for Hackathon: **ابتكارثون | ابتكار في الفضاء**
 
 🚀 Designed by: NeuroSpace Team
---------------------------------
 ## 🔧 How to Use the Trained Models
 
 Each folder under `trained_models/` contains the necessary files for one of the seven AI models used in our **NeuroSpace** project.
